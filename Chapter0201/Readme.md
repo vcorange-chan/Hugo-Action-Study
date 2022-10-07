@@ -84,11 +84,11 @@ git push -u origin main
 ## 3.2. 将当前子项目存档在分支中
 
 进入当前项目`acme-corporation` 的子项目(章节Chapter0201)目录，现在要将这个Chapter0201存档在分支中。
-`git remote -v ` 查看远程连接状态
-`git status` 查看当前分支状态
-`git branch` 查看分支列表
-`git branch 分支名字` 新建分支
-`git checkout 分支名字` 转到分支
+- `git remote -v ` 查看远程连接状态;
+- `git status` 查看当前分支状态;
+- `git branch` 查看分支列表;
+- `git branch 分支名字` 新建分支;
+- `git checkout 分支名字` 转到分支;
 上传文件到新分支
 ```
 git init
